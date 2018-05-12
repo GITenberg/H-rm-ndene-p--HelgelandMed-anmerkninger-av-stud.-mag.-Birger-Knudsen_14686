@@ -1,0 +1,29 @@
+_repo: H-rm-ndene-p--HelgelandMed-anmerkninger-av-stud.-mag.-Birger-Knudsen_14686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2005-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14686'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian drama'
+title: 'Hærmændene på Helgeland
+
+  Med anmerkninger av stud. mag. Birger Knudsen'
+url: http://www.gutenberg.org/ebooks/14686
